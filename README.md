@@ -11,7 +11,7 @@ READ BEFORE CREATING ISSUES: most issues will probably go unawnserd so dont get 
 
 WANT TO BUILD???:
 
-read the Makefile for more information on TIERS and running Make tier!
+start off by extracting the .zip and cding into the directory, then read the Makefile for more information on TIERS and running Make tier!
 
 WANT TO RUN ON QEMU?:
 
