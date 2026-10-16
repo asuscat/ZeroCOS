@@ -11,6 +11,11 @@ READ BEFORE CREATING ISSUES: most issues will probably go unawnserd so dont get 
 
 WANT TO BUILD???:
 
+download this file https://www.microchip.com/en-us/tools-resources/develop/microchip-studio/gcc-compilers
+then download the riscv toolchain from your local repo
+extract the avr toolchain then run 
+chmod -R +x ~/avr8-gnu-toolchain-linux_x86_64/
+
 start off by extracting the .zip and cding into the directory, THEN RUN make clean, then read the Makefile for more information on TIERS and running Make tier!
 
 WANT TO RUN ON QEMU?:
