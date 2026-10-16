@@ -5,7 +5,7 @@ READ BEFORE USE!!!: THIS IS A ALPHA GRADE PRODUCT, NOWHERE NEAR FINISHED, IT WOR
 
 Credit to chatbots used to create: claude, gemini, chatgpt
 
-LISCENCING: GPL, this way, we are exempt from age verification laws and you are also free to distribute and edit this with ONE CATCH, you follow the licencing! OH YEAH, and make SURE you provide a link to the ORIGINAL REPOSITORY and add a disclaimer saying "this project includes vibe coded material" or some shit like that, because otherwise, your a shady cheeky boy who likes AI slop without praising the AI data center gods
+LICENCING: GPL, this way, we are exempt from age verification laws and you are also free to distribute and edit this with ONE CATCH, you follow the licencing! OH YEAH, and make SURE you provide a link to the ORIGINAL REPOSITORY and add a disclaimer saying "this project includes vibe coded material" or some shit like that, because otherwise, your a shady cheeky boy who likes AI slop without praising the AI data center gods
 
 READ BEFORE CREATING ISSUES: most issues will probably go unawnserd so dont get your hopes up, nontheless feel free to create pull requests or issues
 
