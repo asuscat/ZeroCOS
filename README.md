@@ -21,3 +21,5 @@ start off by extracting the .zip and cding into the directory, THEN RUN make cle
 WANT TO RUN ON QEMU?:
 
 compile with make run TIER=3
+
+WHAT IS THE POINT OF GPL????: the point IS NOT to credit me, but rather, to give users their 4 ESSENTIAL FREEDOMS, as for crediting the original project, it allows users to know where the base code came from, allowing more forks and contributers and pull requests
